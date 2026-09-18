@@ -1,0 +1,58 @@
+[
+  {
+    "project": "hofhaus",
+    "type": "KI-Visualisierung",
+    "credit": "KI-generierte Visualisierung für die fiktive Entwurfsstudie. Kein realisiertes Gebäude.",
+    "source_url": null
+  },
+  {
+    "photographer": "Taylor Friehl",
+    "source_url": "https://unsplash.com/photos/wooden-building-exterior-with-a-window-and-chair-6NC8bapR3fM",
+    "license": "Unsplash License",
+    "license_url": "https://unsplash.com/license",
+    "credit": "Foto: Taylor Friehl / Unsplash",
+    "actual_subject": "Modern timber-clad building exterior; exact building and use not identified on source page.",
+    "project": "holzhaus",
+    "type": "Bildreferenz"
+  },
+  {
+    "photographer": "Christian Holzinger",
+    "source_url": "https://unsplash.com/photos/a-building-with-many-windows-I-CqdOeRA3I",
+    "license": "Unsplash License",
+    "license_url": "https://unsplash.com/license",
+    "credit": "Foto: Christian Holzinger / Unsplash",
+    "actual_subject": "Brick building facade; exact building and reuse history not identified on source page.",
+    "project": "weiterbauen",
+    "type": "Bildreferenz"
+  },
+  {
+    "photographer": "valentin ciccarone",
+    "source_url": "https://unsplash.com/photos/modern-building-facade-with-geometric-balconies-against-sky-itxG6LYz93k",
+    "license": "Unsplash License",
+    "license_url": "https://unsplash.com/license",
+    "credit": "Foto: valentin ciccarone / Unsplash",
+    "actual_subject": "Modernist apartment building in Montélimar, France (identified by source page).",
+    "project": "stadthaus",
+    "type": "Bildreferenz"
+  },
+  {
+    "photographer": "Patrick Rosenberger (Schneider)",
+    "source_url": "https://unsplash.com/photos/empty-white-stairs-kYqO-zK3esU",
+    "license": "Unsplash License",
+    "license_url": "https://unsplash.com/license",
+    "credit": "Foto: Patrick Rosenberger (Schneider) / Unsplash",
+    "actual_subject": "Apple Park, Cupertino, California, USA (identified by source page).",
+    "project": "lichtraum",
+    "type": "Bildreferenz"
+  },
+  {
+    "photographer": "Matheus Costa",
+    "source_url": "https://unsplash.com/photos/white-concrete-building-during-daytime-z1FIJqpt-pY",
+    "license": "Unsplash License",
+    "license_url": "https://unsplash.com/license",
+    "credit": "Foto: Matheus Costa / Unsplash",
+    "actual_subject": "Bauhaus-Archiv / Museum für Gestaltung, Berlin, Germany (identified by source page).",
+    "project": "kulturhaus",
+    "type": "Bildreferenz"
+  }
+]
